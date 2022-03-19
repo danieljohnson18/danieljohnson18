@@ -16,4 +16,4 @@
 - ⚡ Fun fact: I have seen the office 4 times (and counting 😅)
 - My portfolio [Portfolio](https://arikawedaniel.netlify.app/)
 
-- ![Profile Views](https://profile-counter.glitch.me/{danieljohnson18}/count.svg)
+- [![Profile Views](https://komarev.com/ghpvc/?username=danieljohnson18&color=FAC151)][1]
