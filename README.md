@@ -14,6 +14,6 @@
 - 📫 How to reach me: [Twitter](https://twitter.com/danieljohnsin)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have seen the office 4 times (and counting 😅)
-My portfolio [Portfolio](https://arikawedaniel.netlify.app/)
+-My portfolio [Portfolio](https://arikawedaniel.netlify.app/)
 
-![](https://komarev.com/ghpvc/?username=danieljohnson18&label=PROFILE+VIEWS&style=flat-squarecolor=brightgreen)
+- [Profile Views](https://komarev.com/ghpvc/?username=danieljohnson18&label=PROFILE+VIEWS&style=flat-square&color=brightgreen)
