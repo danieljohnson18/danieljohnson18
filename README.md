@@ -4,8 +4,7 @@
 
 ### 🌱 I’m also currently learning the Web3 Frontend stack as well as more React Native and React.
 
-<!--
-**danieljohnson18/danieljohnson18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--!>
+
 - 🤝 I’m looking to collaborate on Frontend Projects (Web2 and Web3)
 - 💬 Ask me about React, Manchester United and any episode of The office
 - 📫 How to reach me: [Twitter](https://twitter.com/danieljohnsin), [LinkedIn](https://www.linkedin.com/in/daniel-arikawe-498a1a178/) and [Mail] (arikawedaniel@gmail.com)
