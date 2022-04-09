@@ -1,6 +1,6 @@
 ### Hi there ✨, I am Daniel Arikawe
 
-### I am a frontend developer (at Riby HQ) with a passion for crafting beautiful, pixel-perfect and fully functional user interfaces. I have three years experience building large-scale frontend web applications.
+### I am a Frontend Engineer (Web and Mobile) with a passion for crafting beautiful, pixel-perfect and fully functional user interfaces. I have three years experience building large-scale frontend web applications.
 
 ### 🌱 I’m also currently learning the Web3 Frontend stack as well as more React Native and React.
 
