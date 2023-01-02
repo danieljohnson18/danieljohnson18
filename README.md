@@ -5,7 +5,7 @@
 ### 🌱 I’m also currently learning the Web3 Frontend stack as well as more React Native and React.
 
 
-- 🤝 I’m looking to collaborate on Frontend Projects (Web2 and Web3)
+- 🤝 I’m looking to collaborate on Frontend Projects (Web and Mobile)
 - 💬 Ask me about React, Manchester United and any episode of The office
 - 📫 How to reach me: [Twitter](https://twitter.com/danieljohnsin), [LinkedIn](https://www.linkedin.com/in/daniel-arikawe-498a1a178/) and [Mail] (arikawedaniel@gmail.com)
 - 👨🏽 Pronouns: He/Him
