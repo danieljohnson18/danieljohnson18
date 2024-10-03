@@ -1,6 +1,6 @@
 ### Hi there ✨, I am Daniel Arikawe
 
-### A Senior Frontend Engineer (Web and Mobile) with a passion for crafting beautiful, pixel-perfect, and fully functional user interfaces. I have five years of experience building large-scale frontend web applications.
+### A Senior Frontend Engineer (Web and Mobile) with a passion for crafting beautiful, pixel-perfect, and fully functional user interfaces. Five years of experience building large-scale frontend web applications.
 
 
 - 🤝 Reach out to collaborate on Frontend Projects (Web and Mobile)
